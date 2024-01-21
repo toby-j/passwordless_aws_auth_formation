@@ -1,5 +1,7 @@
-# Amplify Passwordless SMS Authentication
+# Passwordless SMS Authentication
 This is your passwordless SMS authentication solution for AWS. It uses Amazon Cognito user pools custom auth challenge with AWS Lambda triggers as shown in this diagram.
+
+TODO: Make this a Lambda application (You can still use the template.yml and upload it to CloudFormation).
  
 ![Lambda Triggers Diagram](https://docs.aws.amazon.com/cognito/latest/developerguide/images/lambda-challenges.png)
 
